@@ -4595,7 +4595,7 @@ static const unsigned char temp_binary_data_118[] =
 "          \"text\": \"ff000000\",\n"
 "          \"headlineFill\": \"ffffffff\",\n"
 "          \"pageFill\": \"ffffffff\",\n"
-"          \"sidebarFill\": \"fff0f0f0\",\n"
+"          \"sidebarFill\": \"ffffffff\",\n"
 "          \"dialogFill\": \"fff5f5f5\",\n"
 "          \"lassoFill\": \"17000000\",\n"
 "          \"lassoBorder\": \"ff000000\",\n"

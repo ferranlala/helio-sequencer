@@ -87,6 +87,34 @@
         }
       },
       {
+        "name": "E-Ink",
+        "colourMap":
+        {
+          "text": "ff000000",
+          "headlineFill": "ffffffff",
+          "pageFill": "ffffffff",
+          "sidebarFill": "ffffffff",
+          "dialogFill": "fff5f5f5",
+          "lassoFill": "17000000",
+          "lassoBorder": "ff000000",
+          "frameBorder": "ff000000",
+          "whiteKey": "ffffffff",
+          "blackKey": "ffd0d0d0",
+          "bar": "ff808080",
+          "row": "ffe8e8e8",
+          "timeline": "ffffffff",
+          "iconShadow": "00000000",
+          "iconBase": "bf000000",
+          "scriptText": "ff000000",
+          "scriptKeyword": "ff000000",
+          "scriptFunction": "ff333333",
+          "scriptLiteral": "ff555555",
+          "scriptBracket": "ff000000",
+          "scriptError": "ff000000",
+          "scriptComment": "ff888888"
+        }
+      },
+      {
         "name": "Grayscale",
         "colourMap":
         {

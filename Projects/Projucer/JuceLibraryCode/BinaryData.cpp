@@ -4589,6 +4589,34 @@ static const unsigned char temp_binary_data_118[] =
 "        }\n"
 "      },\n"
 "      {\n"
+"        \"name\": \"E-Ink\",\n"
+"        \"colourMap\":\n"
+"        {\n"
+"          \"text\": \"ff000000\",\n"
+"          \"headlineFill\": \"ffffffff\",\n"
+"          \"pageFill\": \"ffffffff\",\n"
+"          \"sidebarFill\": \"ffffffff\",\n"
+"          \"dialogFill\": \"fff5f5f5\",\n"
+"          \"lassoFill\": \"17000000\",\n"
+"          \"lassoBorder\": \"ff000000\",\n"
+"          \"frameBorder\": \"ff000000\",\n"
+"          \"whiteKey\": \"ffffffff\",\n"
+"          \"blackKey\": \"ffd0d0d0\",\n"
+"          \"bar\": \"ff808080\",\n"
+"          \"row\": \"ffe8e8e8\",\n"
+"          \"timeline\": \"ffffffff\",\n"
+"          \"iconShadow\": \"00000000\",\n"
+"          \"iconBase\": \"bf000000\",\n"
+"          \"scriptText\": \"ff000000\",\n"
+"          \"scriptKeyword\": \"ff000000\",\n"
+"          \"scriptFunction\": \"ff333333\",\n"
+"          \"scriptLiteral\": \"ff555555\",\n"
+"          \"scriptBracket\": \"ff000000\",\n"
+"          \"scriptError\": \"ff000000\",\n"
+"          \"scriptComment\": \"ff888888\"\n"
+"        }\n"
+"      },\n"
+"      {\n"
 "        \"name\": \"Grayscale\",\n"
 "        \"colourMap\":\n"
 "        {\n"
@@ -5782,7 +5810,7 @@ const char* getNamedResource (const char* resourceNameUTF8, int& numBytes)
         case 0x9bdc9ff2:  numBytes = 18403; return logov2mac_png;
         case 0xb278622d:  numBytes = 64; return arpeggiators_json;
         case 0xd1d24c90:  numBytes = 768; return chords_json;
-        case 0x41b35b05:  numBytes = 6223; return colourSchemes_json;
+        case 0x41b35b05:  numBytes = 7088; return colourSchemes_json;
         case 0x25669f2b:  numBytes = 26137; return hotkeySchemes_json;
         case 0xfd7446db:  numBytes = 792; return keyboardMappings_json;
         case 0x496315fd:  numBytes = 933; return meters_json;
